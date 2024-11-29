@@ -23,6 +23,9 @@ jobs:
 
       - name: Build project
         run: npm run build
+        env: 
+          TURBO_TOKEN: cNNAqGsemlXQcHO7vaMHAHMq
+          TURBO_TEAM: gkanawatis-projects
 
       - name: Deploy Storybook
         working-directory: ./packages/docs
