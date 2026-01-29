@@ -87,3 +87,8 @@ npm run dev
 - **Turborepo** - Monorepo orchestration
 - **Storybook** 8 - Component documentation and playground
 - **Changesets** - Version management and npm publishing
+
+## Project
+
+<img width="1512" height="951" alt="Screenshot 2026-01-29 at 10 47 56" src="https://github.com/user-attachments/assets/b7820bcc-4ba6-4d9d-9032-6c90df69ab27" />
+<img width="1512" height="949" alt="Screenshot 2026-01-29 at 10 47 39" src="https://github.com/user-attachments/assets/a28c1789-0102-46e2-a97e-dd93a0ddad53" />
